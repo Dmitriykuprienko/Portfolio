@@ -16,4 +16,7 @@
 
 [Ссылка на тетрадь в .ipynb](https://github.com/Dmitriykuprienko/Portfolio/blob/main/Исследование%20рынка%20общественного%20питания%20Москвы/Рынок%20заведений%20общественного%20питания%20Москвы.ipynb)
 
+[Ссылка на презентацию](https://disk.yandex.ru/i/9XHrvfgpirwN7A)
+
+
 
