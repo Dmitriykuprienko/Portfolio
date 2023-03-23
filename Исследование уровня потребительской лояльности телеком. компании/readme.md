@@ -13,8 +13,8 @@
 
 <b>Проект завершен</b>
 
-[Ссылка на тетрадь Jupyter](https://github.com/Vadimius1010/Portfolio/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BB%D0%BE%D1%8F%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC.%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BB%D0%BE%D1%8F%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC.%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8.ipynb)
+[Ссылка на тетрадь Jupyter](https://github.com/Dmitriykuprienko/Portfolio/blob/main/Исследование%20уровня%20потребительской%20лояльности%20телеком.%20компании/Исследование%20уровня%20потребительской%20лояльности%20телеком.%20компании.ipynb)
 
-[Ссылка на презентацию](hhttps://cloud.mail.ru/public/PWbp/1Tqkt3er5)
+[Ссылка на презентацию](https://cloud.mail.ru/public/PWbp/1Tqkt3er5)
 
 [Ссылка на дашборд Tableau](https://public.tableau.com/app/profile/dmitriy1776/viz/Book2_16704031451570/_2?publish=yes)
